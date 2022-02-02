@@ -1,5 +1,3 @@
-# Case Study Proposal: [KOHO Financial Inc (KOHO)](https://koho.ca/)
-
 # Case Study Proposal: [Mogo Finance Technology Inc (Mogo Inc)](https://mogo.ca/)
 
 ## What Is It
