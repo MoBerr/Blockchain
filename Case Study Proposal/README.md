@@ -57,4 +57,3 @@ Mogo has been on an acquisition spree in the fintech and cryptocurrency spaces a
 
 * [Here's Why Mogo Stock Made Big Gains Today](https://finance.yahoo.com/m/f366b501-4611-379a-acef-732408bfddb5/here-s-why-mogo-stock-made.html)
 
-* [Business Wire](https://www.businesswire.com/news/home/20210503005398/en/Mogo-Expands-Crypto-Portfolio-with-Corporate-Investment-in-Ethereum-Alongside-its-Existing-Investment-in-Bitcoin)
