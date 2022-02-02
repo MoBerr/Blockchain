@@ -1,166 +1,62 @@
-# Unit 18 | Homework Assignment: Building the Blockchain
+# Case Study Proposal: [KOHO Financial Inc (KOHO)](https://koho.ca/)
 
-The blockchain domain is rapidly changing.  Even those in a highly technical role must stay abreast of what is happening in the digital finance landscape as many FinTech companies are using and creating tools and services that are powered by blockchain. As a FinTech professional in these changing times, it's important to not only be aware of the advancements happening within the FinTech blockchain space, but to also understand the process for developing your very own blockchain.
+# Case Study Proposal: [Mogo Finance Technology Inc (Mogo Inc)](https://mogo.ca/)
 
-This homework will be a two-part series in which you will first create a case study on a Canadian FinTech blockchain company. Then, you wil develop your very own blockchain.
+## What Is It
 
-## Before You Begin
+Mogo Finance Technology Inc was founded in 2003 and operates an online lending platform aimed a Millenials with a variety of credit solutions, including:
 
-1. Create a new GitHub repo called `blockchain-homework`. Then, clone it to your computer.
+* short term loans
+* prepaid credit card
+* credit score 'protection.'
+* small loans
+* mortgage
+* investments
 
-2. In your local git repository, create a directory for both of the Blockchain activities. Use folder names that correspond to the activities: **Blockchain Case Study** and **POA Development Chain**.
 
-3. Push the above changes to GitHub.
+Mogo is the 'banking training wheels' for Millenials.  The group represents a significant portion of the population who are generally considered iconoclasts regarding where they want to put their money.
 
-## Blockchain Case Study
+Many millennials rely on their checking and savings accounts to help manage their finances, but they're increasingly swapping traditional brick-and-mortar banks for new banking options. Moreover, when millennials are dissatisfied with their bank, they're not afraid to move to greener pastures; they're 2.5 times more likely than Baby Boomers and 1.5 times more likely than Gen Xers to switch banks.
 
-For this part one assignment, your task is to create a case study that analyzes how a Canadian FinTech blockchain company is using technology to solve a standing financial problem in Canada.
+Millennials gravitate to 'Neobanks,' which usually do not offer a physical branch to access services.  Mogo is so designed.  The current marketing is hyperfocused on the millennial market, for example, by tethering spending to planting trees, automating investments by using your spare change.
 
-In this homework assignment, you will:
+This group was never 'underbanked.' However, they needed more attention to navigating the world of finance properly; this is what Mogo Financial Tech. is for them.
 
-* Select a Canadian FinTech blockchain company that interests you.
+Mogo Expands Crypto Portfolio with Corporate Investment in Ethereum Alongside its Existing Investment in Bitcoin.  
+Mogo plans to Invest up to 5% of the value of its cash and Investment Portfolio in cryptocurrencies
 
-* Research the domain and company.
+The investment complements Mogo's broader cryptocurrency strategy, including its recent investment in Canada's leading digital asset platform, Coinsquare. In addition, the Company announced that it had purchased approximately 146 Ether (ETH) at an average price of US$2,780. Ethereum is an open-source, blockchain-based, decentralized software platform that uses its cryptocurrency, Ether.
 
-* Write a detailed case study of the company.
+## Why This Matters
 
-* Upload your case study to your git repository.
+"94% of millennials also said that no-fee banking was a priority".  This contradicts the current traditional banking model.  "When millennials are dissatisfied with their bank, they're not afraid to move to greener pastures; they're 2.5 times more likely than Baby Boomers and 1.5 times more likely than Gen Xers to switch banks."  When you consider these two facts, it makes sense to develop a separate space for them to do their banking.
 
-Reference the example [TokenFunder Case Study](Resources/TokenFunder_Case_Study.md) to get an understanding of the format and content that you'll need to write.
+Most Neobanks are offshoots of traditional banks; Scotia Bank has Tangerine, CIBC owns Simplii.  So there is a precedence and a clear recognition that business as usual will not work.  The group's needs have to be catered for, which has sparked a revolution in the banking industry.  
 
-This assignment will challenge you to learn more about Canadian advancements in the blockchain industry.
+Mogo's Ethereum investment is consistent with management's plans to increase the Company's balance sheet investment in the blockchain and fintech ecosystem, particularly as it monetizes its portfolio of equity investments that had a value of approximately $18.4 million on December 31, 2020. Last week, Mogo announced the sale of its investment in Vena Solutions for proceeds of $4.7 million, a 116% increase from the book value on December 31, 2020. In addition, the Company has already invested in Bitcoin, acquiring approximately 18 Bitcoins to date in open market transactions at an average price of US$33,083. Mogo plans to invest up to 5% of its cash and investment portfolio value in cryptocurrencies.
 
-## Proof of Authority Development Chain
+## Why This May be Interesting
 
-For part two of this assignment, you will take on the role of a new developer at a small bank.
+Mogo Completes Acquisition of Canadian Investment Dealer Fortification Capital Inc. - to be Renamed MogoTrade.  Mogo acquires the necessary licenses, registration and technology – including an order management system and market data processing – to accelerate the development of MogoTrade, the Company's commission-free stock trading solution.
 
-Your mission, should you choose to accept it, will be to set up a testnet blockchain for your organization.
+The banks of the second opportunity are generally what millennials need. Many of them need credit repair services and a second chance that's not perceived as forthcoming from the major banks. Mogo will loan you money even with bad credit.  Technically they operate more like the traditional payday loan with their products like 'MogoMini' and 'MogoZip.'  'As a word of caution, those with bad credit need to be particularly careful when taking out a payday loan with MogoMini or MogoZip. Short-term, high-interest loans like MogoZip often cost a sizable chunk in interest charges on top of paying back the loan'.
 
-To do this, you will create and submit four deliverables:
+Mogo has been on an acquisition spree in the fintech and cryptocurrency spaces and has recently bought companies including Fortification Capital, Carta Solutions, and Moka Financial.
 
-* Set up your custom testnet blockchain.
+## Resources
 
-* Send a test transaction.
+* [5 Canadian Fintech Companies to Watch](https://www.investopedia.com/articles/markets/081116/5-fintech-firms-emerging-canada-mftgf-vggof.asp)
 
-* Create a repository.
+* [Surprising Millennial Banking Trends](https://www.thebalance.com/where-do-millennials-bank-and-why-4428054)
 
-* Write instructions on how to use the chain for the rest of your team.
+* [Millennials lead mobile banking charge, study says](https://www.paymentsdive.com/ex/mpt/news/millennials-lead-mobile-banking-charge-study-says/?)
 
-### Background
+* [4 things you should know about Mogo](https://www.moneysense.ca/save/4-things-you-should-know-about-mogo/)
 
-You have just landed a new job at ZBank, a small, innovative bank that is interested in exploring what
-blockchain technology can do for them and their customers.
+* [Mogo Inc. (MOGO)](https://finance.yahoo.com/quote/MOGO/)
 
-Your first project at the company is to set up a private testnet that you and your team of developers
-can use to explore potentials for blockchain at ZBank.
+* [MogoTrade](https://finance.yahoo.com/news/mogo-completes-acquisition-canadian-investment-120800936.html)
 
-You have decided on setting up a testnet because:
+* [Here's Why Mogo Stock Made Big Gains Today](https://finance.yahoo.com/m/f366b501-4611-379a-acef-732408bfddb5/here-s-why-mogo-stock-made.html)
 
-There is no real money involved, which will give your team of developers the freedom to experiment.
-
-Testnets allows for offline development.
-
-In order to set up a testnet, you will need to use the following skills/tools we learned in class:
-
-* Puppeth, to generate your genesis block.
-
-* Geth, a command-line tool, to create keys, initialize nodes, and connect the nodes together.
-
-* The Clique Proof of Authority algorithm.
-
-Tokens inherently have no value here, so we will provide pre-configured accounts and nodes for easy setup.
-
-After creating the custom development chain, create documentation for others on how to start it using the pre-configured
-nodes and accounts. You can name the network anything you want, have fun with it!
-
-Be sure to include any preliminary setup information, such as installing dependencies and environment configuration.
-
-### Instructions
-
-#### Setup the custom out-of-the-box blockchain
-
-* Create a new project directory for your new network. Call it whatever you want!
-
-* Create a "Screenshots" folder inside of the project directory.
-
-* Create accounts for two (or more) nodes for the network with a separate `datadir` for each using `geth`.
-
-* Run `puppeth`, name your network, and select the option to configure a new genesis block.
-
-* Choose the `Clique (Proof of Authority)` consensus algorithm.
-
-* Paste both account addresses from the first step one at a time into the list of accounts to seal.
-
-* Paste them again in the list of accounts to pre-fund. There are no block rewards in PoA, so you'll need to pre-fund.
-
-* You can choose `no` for pre-funding the pre-compiled accounts (0x1 .. 0xff) with wei. This keeps the genesis cleaner.
-
-* Complete the rest of the prompts, and when you are back at the main menu, choose the "Manage existing genesis" option.
-
-* Export genesis configurations. This will fail to create two of the files, but you only need `networkname.json`.
-
-* You can delete the `networkname-harmony.json` file.
-
-* Screenshot the `puppeth` configuration once complete and save it to the Screenshots folder.
-
-* Initialize each node with the new `networkname.json` with `geth`.
-
-* Run the first node, unlock the account, enable mining, and the RPC flag. Only one node needs RPC enabled.
-
-* Set a different peer port for the second node and use the first node's `enode` address as the `bootnode` flag.
-
-* Be sure to unlock the account and enable mining on the second node!
-
-* You should now see both nodes producing new blocks, congratulations!
-
-#### Send a test transaction
-
-* Use the MyCrypto GUI wallet to connect to the node with the exposed RPC port.
-
-* You will need to use a custom network, and include the chain ID, and use ETH as the currency.
-
-![custom-node](Images/custom-node.png)
-
-* Import the keystore file from the `node1/keystore` directory into MyCrypto. This will import the private key.
-
-* Send a transaction from the `node1` account to the `node2` account.
-
-* Copy the transaction hash and paste it into the "TX Status" section of the app, or click "TX Status" in the popup.
-
-* Screenshot the transaction metadata (status, tx hash, block number, etc) and save it to your Screenshots folder.
-
-* Celebrate, you just created a blockchain and sent a transaction!
-
-![transaction-success](Images/transaction-success.png)
-
-#### Create a repository, and instructions for launching the chain
-
-* Create a `README.md` in your project directory and create documentation that explains how to start the network.
-
-* Remember to include any environment setup instructions and dependencies.
-
-* Be sure to include all of the `geth` flags required to get both nodes to mine and explain what they mean.
-
-* Explain the configuration of the network, such as it's blocktime, chain ID, account passwords, ports, etc.
-
-* Explain how to connect MyCrypto to your network and demonstrate (via screenshots and steps) and send a transaction.
-
-* Upload the code, including the `networkname.json` and node folders.
-
-#### Remember, *never* share your mainnet private keys! This is a testnet, so coins have no value here!
-
-#### Hints
-
-* If you get stuck - try our step by step PoA Guide located [here](Resources/POA-Blockchain-guide.md).
-
-* If you aren't seeing any movement in the wallet amounts in MyCrypto after sending/receiving transactions, try the following:
-
-    * Terminate both nodes using control+C in the Node1 and Node2 terminal windows.
-    * Change networks in MyCrypto to a Testnet such as Kovan.
-    * Restart Node1 and Node2 in their terminal windows.
-    * Reconnect to your network in MyCrypto.
-    * Log into your wallet and refresh the amount.
-
-* If that doesn't help make sure you are sending a large enough sum of ETH to see actual movement in the digits. You may have to click on the amount itself to see the full value down to the WEI.
----
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+* [Business Wire](https://www.businesswire.com/news/home/20210503005398/en/Mogo-Expands-Crypto-Portfolio-with-Corporate-Investment-in-Ethereum-Alongside-its-Existing-Investment-in-Bitcoin)
